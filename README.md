@@ -107,3 +107,7 @@ We would like to give a huge shout-out to our partners for making this project p
 **Backend (Server-Side: Python FastAPI)**
 - **`main.py`**: Entry point exposing `/api/tts` (Rime API proxy) and `/api/assist` (NLP & Qdrant query).
 - **`qdrant_service.py`**: Manages all interactions with Qdrant, converting transcripts into vectors for semantic similarity searches to find the appropriate safety protocol.
+### Contributors
+- Shivansh ([@upshivansh2006-cell](https://github.com/upshivansh2006-cell))
+- Harsh Pandey ([@harshpandey45](https://github.com/harshpandey45))
+- 
